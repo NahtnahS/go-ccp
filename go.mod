@@ -1,4 +1,4 @@
-module github.com/liviusnl/go-ccp
+module github.com/nahtnahs/go-ccp
 
 go 1.20
 
